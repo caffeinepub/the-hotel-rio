@@ -4,10 +4,8 @@ const images = [
   { src: "/assets/uploads/image-1.png", label: "Deluxe Room" },
   { src: "/assets/uploads/image-1-2.png", label: "Standard Room" },
   { src: "/assets/uploads/image-3-4.png", label: "Premium Room" },
-  { src: "/assets/uploads/image-7-7.png", label: "Suite View" },
   { src: "/assets/uploads/image-2-3.png", label: "Bathroom" },
   { src: "/assets/uploads/image-4-5.png", label: "En-suite Bath" },
-  { src: "/assets/uploads/image-6-6.png", label: "Premium Bath" },
   { src: "/assets/generated/gallery-lobby.dim_800x600.jpg", label: "Lobby" },
   {
     src: "/assets/generated/gallery-exterior.dim_800x600.jpg",
